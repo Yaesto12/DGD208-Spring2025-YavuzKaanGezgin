@@ -1,0 +1,8 @@
+C:\Users\ramaz\Desktop\petsim\PetSimulator\PetSimulator\obj\Debug\PetSimulator.csproj.AssemblyReference.cache
+C:\Users\ramaz\Desktop\petsim\PetSimulator\PetSimulator\obj\Debug\PetSimulator.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\Desktop\petsim\PetSimulator\PetSimulator\bin\Debug\PetSimulator.exe.config
+C:\Users\ramaz\Desktop\petsim\PetSimulator\PetSimulator\bin\Debug\PetSimulator.exe
+C:\Users\ramaz\Desktop\petsim\PetSimulator\PetSimulator\bin\Debug\PetSimulator.pdb
+C:\Users\ramaz\Desktop\petsim\PetSimulator\PetSimulator\obj\Debug\PetSimulator.exe
+C:\Users\ramaz\Desktop\petsim\PetSimulator\PetSimulator\obj\Debug\PetSimulator.pdb
+C:\Users\ramaz\Desktop\petsim\PetSimulator\PetSimulator\obj\Debug\PetSimulator.exe.config
