@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Timers;
+using System.Threading.Tasks;
 using PetSimulator;
 
 namespace PetSimulator
@@ -10,7 +11,7 @@ namespace PetSimulator
         static Timer displayTimer;
         static Timer statTimer;
 
-        static void Main()
+        static async Task Main()
         {
             StartTimers();
 
@@ -21,6 +22,17 @@ namespace PetSimulator
                 {
                     ShowAdoptionCenter();
                 }
+                else if (input?.ToLower() == "b")
+                {
+                    displayTimer.Stop();
+                    statTimer.Stop();
+
+                    await ItemUsage.UseItemOnPet(adoption.GetAllPets());
+
+                    displayTimer.Start();
+                    statTimer.Start();
+                }
+
                 else if (input?.ToLower() == "q")
                 {
                     Console.WriteLine("Exiting...");
@@ -61,6 +73,7 @@ namespace PetSimulator
 
                 Console.WriteLine();
                 Console.WriteLine("Type 'a' to adopt a new pet.");
+                Console.WriteLine("Type 'b' to use an item on a pet.");
                 Console.WriteLine("Type 'q' to quit.");
             };
             displayTimer.AutoReset = true;
@@ -79,6 +92,7 @@ namespace PetSimulator
         {
             displayTimer.Stop();
             statTimer.Stop();
+            Console.Clear();
 
             while (true)
             {

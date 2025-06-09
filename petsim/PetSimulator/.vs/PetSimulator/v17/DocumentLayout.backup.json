@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\",
+  "WorkspaceRootPath": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\petsimulator\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|c:\\users\\ramaz\\documents\\github\\dgd208-spring2025-yavuzkaangezgin\\petsim\\petsimulator\\petsimulator\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|solutionrelative:petsimulator\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\petsimulator\\adoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\petsimulator\\adoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|solutionrelative:petsimulator\\adoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\petsimulator\\pettypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\petsimulator\\itemusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|solutionrelative:petsimulator\\itemusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\petsimulator\\pettypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|solutionrelative:petsimulator\\pettypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|c:\\users\\ramaz\\desktop\\petsim\\petsimulator\\petsimulator\\petstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\petsimulator\\petstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|solutionrelative:petsimulator\\petstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|c:\\users\\ramaz\\desktop\\petsim\\petsimulator\\petsimulator\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\petsimulator\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|solutionrelative:petsimulator\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|c:\\users\\ramaz\\desktop\\petsim\\petsimulator\\petsimulator\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\petsimulator\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|solutionrelative:petsimulator\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|c:\\users\\ramaz\\desktop\\petsim\\petsimulator\\petsimulator\\petstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\petsimulator\\petstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|solutionrelative:petsimulator\\petstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|c:\\users\\ramaz\\desktop\\petsim\\petsimulator\\petsimulator\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\petsimulator\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|solutionrelative:petsimulator\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|c:\\users\\ramaz\\desktop\\petsim\\petsimulator\\petsimulator\\itemusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7409308A-64B9-45DF-9E4F-7F4FA7EBE713}|PetSimulator\\PetSimulator.csproj|solutionrelative:petsimulator\\itemusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,104 +50,98 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "ItemUsage.cs",
-              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\ItemUsage.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\ItemUsage.cs",
               "RelativeDocumentMoniker": "PetSimulator\\ItemUsage.cs",
-              "ToolTip": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\ItemUsage.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\ItemUsage.cs",
               "RelativeToolTip": "PetSimulator\\ItemUsage.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEwAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEwAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T15:16:24.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ItemDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\ItemDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\ItemDatabase.cs",
               "RelativeDocumentMoniker": "PetSimulator\\ItemDatabase.cs",
-              "ToolTip": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\ItemDatabase.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\ItemDatabase.cs",
               "RelativeToolTip": "PetSimulator\\ItemDatabase.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAQwO8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T15:11:31.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T15:11:31.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PetStat.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\PetStat.cs",
+              "RelativeDocumentMoniker": "PetSimulator\\PetStat.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\PetStat.cs",
+              "RelativeToolTip": "PetSimulator\\PetStat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:10:56.332Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PetStat.cs",
-              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\PetStat.cs",
-              "RelativeDocumentMoniker": "PetSimulator\\PetStat.cs",
-              "ToolTip": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\PetStat.cs",
-              "RelativeToolTip": "PetSimulator\\PetStat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "item.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\item.cs",
+              "RelativeDocumentMoniker": "PetSimulator\\item.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\item.cs",
+              "RelativeToolTip": "PetSimulator\\item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T15:10:56.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T15:05:32.798Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "item.cs",
-              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\item.cs",
-              "RelativeDocumentMoniker": "PetSimulator\\item.cs",
-              "ToolTip": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\item.cs",
-              "RelativeToolTip": "PetSimulator\\item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Title": "itemtype.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\itemtype.cs",
+              "RelativeDocumentMoniker": "PetSimulator\\itemtype.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\itemtype.cs",
+              "RelativeToolTip": "PetSimulator\\itemtype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T15:05:32.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T15:02:53.109Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "itemtype.cs",
-              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\itemtype.cs",
-              "RelativeDocumentMoniker": "PetSimulator\\itemtype.cs",
-              "ToolTip": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\itemtype.cs",
-              "RelativeToolTip": "PetSimulator\\itemtype.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "PetStats.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\PetStats.cs",
+              "RelativeDocumentMoniker": "PetSimulator\\PetStats.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\PetStats.cs",
+              "RelativeToolTip": "PetSimulator\\PetStats.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T15:02:53.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T13:30:37.347Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PetStats.cs",
-              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\PetStats.cs",
-              "RelativeDocumentMoniker": "PetSimulator\\PetStats.cs",
-              "ToolTip": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\PetStats.cs",
-              "RelativeToolTip": "PetSimulator\\PetStats.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAYwBQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T13:30:37.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "PetTypes.cs",
-              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\PetTypes.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\PetTypes.cs",
               "RelativeDocumentMoniker": "PetSimulator\\PetTypes.cs",
-              "ToolTip": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\PetTypes.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\PetTypes.cs",
               "RelativeToolTip": "PetSimulator\\PetTypes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T13:30:36.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T13:30:36.511Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Adoption.cs",
-              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\Adoption.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\Adoption.cs",
               "RelativeDocumentMoniker": "PetSimulator\\Adoption.cs",
-              "ToolTip": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\Adoption.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\Adoption.cs",
               "RelativeToolTip": "PetSimulator\\Adoption.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwE8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T13:30:16.3Z",
               "EditorCaption": ""
@@ -156,11 +150,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\Main.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\Main.cs",
               "RelativeDocumentMoniker": "PetSimulator\\Main.cs",
-              "ToolTip": "C:\\Users\\ramaz\\Desktop\\petsim\\PetSimulator\\PetSimulator\\Main.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Documents\\GitHub\\DGD208-Spring2025-YavuzKaanGezgin\\petsim\\PetSimulator\\PetSimulator\\Main.cs",
               "RelativeToolTip": "PetSimulator\\Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAF4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T11:42:51.317Z",
               "EditorCaption": ""

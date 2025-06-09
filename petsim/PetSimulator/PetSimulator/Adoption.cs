@@ -48,6 +48,12 @@ namespace PetSimulator
             return adoptedPets;
         }
 
+        public List<Pet> GetPets()
+        {
+            return adoptedPets;
+        }
+
+
         public void UpdateAllPets()
         {
             foreach (var pet in adoptedPets.ToList())
