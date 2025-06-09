@@ -32,7 +32,6 @@ namespace PetSimulator
                     displayTimer.Start();
                     statTimer.Start();
                 }
-
                 else if (input?.ToLower() == "q")
                 {
                     Console.WriteLine("Exiting...");
@@ -47,6 +46,7 @@ namespace PetSimulator
             displayTimer.Elapsed += (sender, e) =>
             {
                 Console.Clear();
+                Console.WriteLine("YAVUZ KAAN GEZGİN 215040049");
                 Console.WriteLine("YOUR PETS (update per sec):");
 
                 var pets = adoption.GetAllPets();
