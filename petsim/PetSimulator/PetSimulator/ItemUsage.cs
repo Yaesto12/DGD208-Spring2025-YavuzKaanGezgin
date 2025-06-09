@@ -26,7 +26,7 @@ namespace PetSimulator
             int petIndex = GetUserChoice(pets.Count);
             Pet selectedPet = pets[petIndex];
 
-            // Uygun itemları filtrele
+          
             var compatibleItems = ItemDatabase.AllItems
                 .Where(item => item.CompatibleWith.Contains(selectedPet.Type))
                 .ToList();
@@ -74,7 +74,7 @@ namespace PetSimulator
             switch (item.AffectedStat)
             {
                 case PetStat.Hunger:
-                    pet.Hunger = Clamp(pet.Hunger - item.EffectAmount); // hunger azalır
+                    pet.Hunger = Clamp(pet.Hunger - item.EffectAmount); 
                     break;
                 case PetStat.Fun:
                     pet.Fun = Clamp(pet.Fun + item.EffectAmount);
